@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.1 (Python 3.11.1 on win32)" generated="20221227 16:11:19.296" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\Adikrisna\.vscode\extensions\robocorp.robotframework-lsp-1.7.3\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Selecting Radio Button">
+<msg timestamp="20221227 16:11:20.891" level="FAIL">No keyword with name 'Selecting Radio Button' found.</msg>
+<status status="FAIL" starttime="20221227 16:11:20.890" endtime="20221227 16:11:20.891"/>
+</kw>
+<status status="PASS" starttime="20221227 16:11:19.331" endtime="20221227 16:11:24.741"/>
+</kw>
+<status status="PASS" starttime="20221227 16:11:19.331" endtime="20221227 16:11:24.741"/>
+</test>
+<status status="PASS" starttime="20221227 16:11:19.296" endtime="20221227 16:11:24.742"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
